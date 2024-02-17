@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(230, 167, 72);
+    background-color: orangered;
+    padding-left: 38%;
+
+    
+}
+
+
+body {
+    background-image: url('C:\\Users\\Академия ШАГ\\Desktop\\Site\\letuchiy.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 500vh;
+
+
+}
